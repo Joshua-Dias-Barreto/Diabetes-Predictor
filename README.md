@@ -1,2 +1,2 @@
 # Diabetes Prediction
-Logistic Regression and SVM has been used to predict whether a person has diabetes or not
+Logistic Regression and Support Vector Machines ( SVM's ) have been used to predict whether a person has diabetes or not
