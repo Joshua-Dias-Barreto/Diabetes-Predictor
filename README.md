@@ -1,2 +1,2 @@
-# My-ML-Projects
-This repository is a collection of my Machine Learning Projects
+# Diabetes Prediction
+Logistic Regression and SVM has been used to predict whether a person has diabetes or not
